@@ -6,7 +6,7 @@ Handwriting tool using python extension "pywhatkit" (Simple)
     pip install pywhatkit
 
 ### Code
-![code](https://github.com/Sn0bzy/Python-Handwriting/blob/main/code.png?raw=true) 
+![input](https://github.com/Sn0bzy/Python-Handwriting/blob/main/input.png?raw=true) 
 
 ### Output
 ![output](https://github.com/Sn0bzy/Python-Handwriting/blob/main/output.png?raw=true)
