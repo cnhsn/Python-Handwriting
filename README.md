@@ -1,5 +1,5 @@
 # Python Handwriting
-Handwriting tool using python extension "pywhatkit" (Simple)
+Handwriting tool using "pywhatkit" (Simple)
 
 ## Dependencies
 
